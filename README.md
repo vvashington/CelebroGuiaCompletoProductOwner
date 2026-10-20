@@ -54,18 +54,23 @@ O especialista foi treinado com base em referências nacionais e internacionais 
 
 💬 Exemplo de Interação com o Especialista
 Pergunta: O que é um MVP?
-
 Resposta do Especialista:
 
 O MVP (Minimum Viable Product ou Produto Mínimo Viável) é a versão mais simples e enxuta de um produto que já consegue entregar valor real ao cliente e ao usuário final.
+📚 FONTE: Audiobook – Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
 
 Trata-se de construir o mínimo absoluto necessário para resolver a parte mais importante do problema principal do público, permitindo lançar a solução rapidamente no mercado para testar hipóteses e colher feedbacks reais.
 
-📚 FONTES:
+📚 FONTES:Audiobook – Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo e Artigo – Product Owner: como fatiar, descartar e priorizar produtos
 
-Audiobook – Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
-
-Artigo – Product Owner: como fatiar, descartar e priorizar produtos
+Pergunta: como um P.O, como posso disseminar a cultura ágil em uma organização que não possui esta cultura na pratica? Preciso faze uma abordagem leve para que as sugestões sejam aceitas?
+Resposta do Especialista:
+1. Substitua o Jargão Ágil pela Linguagem de Negócio
+Fale sobre resultados, não sobre processos: Diretores e executivos raramente se interessam por rituais do Scrum ou conceitos abstratos; eles se importam com custos, prazos e aumento de receita
+.
+Entenda o modelo de negócio antes de propor mudanças: Em vez de tentar adaptar a empresa às ferramentas do ágil, estude profundamente a operação, as personas e os fluxos de valor da organização para conversar de igual para igual com as áreas de negócio
+.
+📚 FONTES: Negócios demandam e tecnologia faz? Com Joca Torres no BDUX e Gestão de Produtos Imatura: O que eu Faria | Joca Torres
 
 🖼️ Prints e Evidências
 (As evidências e prints de outras interações com o especialista estão disponíveis nos anexos do projeto).
