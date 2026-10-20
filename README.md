@@ -64,6 +64,7 @@ Trata-se de construir o mínimo absoluto necessário para resolver a parte mais 
 📚 FONTES:Audiobook – Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo e Artigo – Product Owner: como fatiar, descartar e priorizar produtos
 
 Pergunta: como um P.O, como posso disseminar a cultura ágil em uma organização que não possui esta cultura na pratica? Preciso faze uma abordagem leve para que as sugestões sejam aceitas?
+NOTA* NEsta pergunta retirei as fontes com foco na preparação para certificação, otimizando a base do especialista focando em um assunto apenas. (no print em anexo e possivel observar)
 Resposta do Especialista:
 1. Substitua o Jargão Ágil pela Linguagem de Negócio
 Fale sobre resultados, não sobre processos: Diretores e executivos raramente se interessam por rituais do Scrum ou conceitos abstratos; eles se importam com custos, prazos e aumento de receita
